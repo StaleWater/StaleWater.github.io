@@ -1,0 +1,21 @@
+#bio {
+    background-color:aliceblue;
+    margin: 2em;
+    padding: 1em;
+    border: black 2px dotted;
+}
+
+.gallery {
+    background-color: bisque;
+    margin: 2em;
+    padding: 1em;
+    border: black 2px dotted;
+}
+
+.head-text {
+    font-size: 5em;
+}
+
+a:hover {
+    color: red;
+}
